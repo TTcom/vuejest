@@ -58,7 +58,7 @@ describe('测试组件能否按预期进行', () => {
 			
 		}])
 		
-		expect(fn).toBeCalled();
+		expect(fn).toBeCalled();       //判断函数是否被执行
 		
 		
 		
